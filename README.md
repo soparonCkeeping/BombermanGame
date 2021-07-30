@@ -1,3 +1,7 @@
+#demo
+(https://player.vimeo.com/video/580989953?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479)
+
+
 # Bài tập lớn OOP - Bomberman Game
 
 Trong bài tập lớn này, nhiệm vụ của bạn là viết một phiên bản Java mô phỏng lại trò chơi [Bomberman](https://www.youtube.com/watch?v=mKIOVwqgSXM) kinh điển của NES.
